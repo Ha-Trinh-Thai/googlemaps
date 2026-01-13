@@ -1,6 +1,6 @@
-# Google Maps Navigation Demo
+# Google Maps Demo
 
-A Next.js application with Google Maps integration featuring smooth zoom functionality and navigation route display.
+A Next.js application with Google Maps integration featuring smooth zoom functionality, draw polygons and navigation route display.
 
 ## Features
 
