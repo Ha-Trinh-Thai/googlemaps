@@ -2,6 +2,14 @@
 
 A Next.js application with Google Maps integration featuring smooth zoom functionality, draw polygons and navigation route display.
 
+## Demo Video
+
+If you have a video file in your repository:
+
+```markdown
+https://www.loom.com/share/81d03f3ccdb54fa9adb3246359e2539d
+```
+
 ## Features
 
 - **Google Maps Integration**: Full-featured Google Maps embed
