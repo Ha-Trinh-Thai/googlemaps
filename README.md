@@ -37,7 +37,7 @@ You can run this application in two ways:
 
 ```bash
 # 1. Copy environment file
-cp .env.docker .env.local
+cp .env.docker .env
 
 # 2. Add your Google Maps API key to .env.local
 
