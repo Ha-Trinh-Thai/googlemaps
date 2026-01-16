@@ -36,7 +36,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-gray-50">
       <div className="container mx-auto p-4">
-        <h1 className="text-4xl font-bold text-center mb-2">
+        <h1 className="text-4xl font-bold text-center text-black mb-2">
           Google Maps Integration
         </h1>
         <section className="mb-12">
