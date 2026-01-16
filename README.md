@@ -4,7 +4,7 @@ A Next.js application with Google Maps integration featuring smooth zoom functio
 
 ## Demo Video
 
-https://www.loom.com/share/81d03f3ccdb54fa9adb3246359e2539d
+https://www.loom.com/share/c6a899fc249945099ace4a9c66dbb7bd
 
 ## Features
 
